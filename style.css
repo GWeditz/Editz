@@ -21,4 +21,7 @@ li a:hover {
   background-color: #428bca;
   color: #FFFFFF;
 }
-
+img{
+  height:400px;
+  width:400px;
+}
