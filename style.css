@@ -4,6 +4,7 @@
   padding: 0;
   width: 200px;
   background-color: #f1f1f1;
+  float:left;
 }
 
 li a {
@@ -15,7 +16,7 @@ li a {
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #555;
+  background-color: #555555;
   color: white;
 }
 .active {
