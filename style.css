@@ -21,6 +21,9 @@ li a:hover {
 img{
   height:400px;
   width:400px;
+  border-style:thick;
+  border-width:2px;
+  border-color:#000000;
 }
 li{
     display:inline;
