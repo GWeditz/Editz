@@ -25,3 +25,9 @@
   background-color: #00A2ED;
   color: #FFFFFF;
 }
+img{
+  width:400px;
+}
+img.shadow-filter:hover {
+    filter: drop-shadow(8px 8px 10px black);
+}
