@@ -1,16 +1,12 @@
 .navbar {
   list-style-type: none;
   margin: 0;
-  padding: 0;
   width: 200px;
   background-color: #f1f1f1;
-}
-
-li a {
   display: block;
   padding: 8px 16px;
 }
-li a:hover {
+h2 a:hover {
   background-color: #555555;
   color: #FFFFFF;
 }
@@ -25,7 +21,7 @@ img{
   border-width:2px;
   border-color:#000000;
 }
-ul{
+h2{
     display:inline;
 }
 body{
