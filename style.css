@@ -28,6 +28,9 @@
 img{
   width:400px;
   height:400px;
+  border-style:solid;
+  border-color:#000000;
+  border-weight:2px;
 }
 img.shadow-filter:hover {
     filter: drop-shadow(8px 8px 10px black);
