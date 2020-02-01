@@ -39,9 +39,9 @@ img{
 }
 .example1text{
   float:right;
-  
+  padding-left:200px;
 }
 .example2text{
   float:left;
-  
+  padding-right:200px;
 }
