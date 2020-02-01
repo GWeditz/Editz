@@ -16,7 +16,7 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #dddddd;
   color: #000000;
 }
 
@@ -32,6 +32,4 @@ img{
   border-color:#000000;
   border-weight:2px;
 }
-img.shadow-filter:hover {
-    filter: drop-shadow(8px 8px 10px black);
-}
+
