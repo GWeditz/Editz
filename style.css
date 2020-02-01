@@ -32,4 +32,9 @@ img{
   border-color:#000000;
   border-weight:2px;
 }
-
+.example1{
+  float:left;
+}
+.example2{
+  float:right;
+}
